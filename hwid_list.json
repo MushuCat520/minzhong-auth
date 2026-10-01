@@ -1,5 +1,9 @@
 {
-    "authorized": [],
+    "authorized": [
+        "024B9AB7-F6D3844B-A9709608-D6E5B4A2",
+        "test",
+        "test"
+    ],
     "banned": [],
     "version": "1.0",
     "updated": "2026-10-01"
